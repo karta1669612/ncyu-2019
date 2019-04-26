@@ -1,0 +1,7 @@
+*   [37mExample 4: merge[m [2;37m
+|\  
+| * [37mExample 4: 4[m [2;37m
+* | [37mExample 4: 3[m [2;37m
+* | [37mExample 4: 2[m [2;37m
+|/  
+* [37mExample 4: 1[m [2;37m
